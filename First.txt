@@ -1,6 +1,6 @@
 My first Line on Github
 Second line on Github
-Third Line Github
-Fourth Line Github
+Third line Github
+Fourth line Github
 Fifth Line Github
 6th Line Github
